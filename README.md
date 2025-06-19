@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/dhyey-bhandari-a7070b245" target="blank">Follow me on LinkedIn</a> </p>
 
-- 🔭 I’m currently working on: **Vynero-Web & ECHO: Mobile App**
+- 🔭 I’m currently working on: **Vynero-Web & AI Agents**
 
 - 🌱 I’m currently learning: **Everything**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: **bhandaridhyeyh@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/158w1opfWz8rXm4pBbXZj17mq5WatcytC/view">My Resume</a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1fd4fPmPTHSztK14K7xtlr8_ez0kutbX_/view?usp=sharing">My Resume</a>
 
 - ⚡ Fun fact: **Neither a dog nor a cat person**
 
@@ -37,6 +37,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhandaridhyeyh&" alt="bhandaridhyeyh" /></p>
 
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dhyey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee dhyey" /></a></p><br><br>
+_Let’s connect and create something amazing! 🚀_<br><br>
