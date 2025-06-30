@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: **bhandaridhyeyh@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1go-LTX6QDB4xjvrWSlTDm1Mw1DlkD6rI/view?usp=sharing">My Resume</a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1e5bw8VjPN3SX2bry1IIVQtLgMrtHjfrF/view?usp=sharing">My Resume</a>
 
 - ⚡ Fun fact: **Neither a dog nor a cat person**
 
