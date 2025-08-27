@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/dhyey-bhandari-a7070b245" target="blank">Follow me on LinkedIn</a> </p>
 
-- 🔭 I’m currently working on: **Vynero-Web & AI Agents**
+- 🔭 I’m currently working on: **AI Agents**
 
 - 🌱 I’m currently learning: **Everything**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at: <a href="https://dhyeybhandari.vercel.app">dhyeybhandari.vercel.app</a>
 
-- 💬 Ask me about: **Design & Frontend**
+- 💬 Ask me about: **Full Stack Development**
 
 - 📫 How to reach me: **bhandaridhyeyh@gmail.com**
 
